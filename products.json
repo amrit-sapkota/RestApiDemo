@@ -1,0 +1,68 @@
+[
+  {
+    "name": "galaxy5",
+    "price": 200,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "iphone5",
+    "price": 500,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "dell1",
+    "price": 600,
+    "feature": true,
+    "company": "dell"
+  },
+  {
+    "name": "acer1",
+    "price": 700,
+    "feature": true,
+    "company": "acer"
+  },
+  {
+    "name": "acer2",
+    "price": 800,
+    "feature": true,
+    "company": "acer"
+  },
+  {
+    "name": "iphone13",
+    "price": 1000,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "s21ultra",
+    "price": 900,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dell8",
+    "price": 300,
+    "feature": true,
+    "company": "dell"
+  },
+  {
+    "name": "acer9",
+    "price": 600,
+    "feature": true,
+    "company": "acer"
+  },
+  {
+    "name": "s10mini",
+    "price": 900,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "iphone15pro",
+    "price": 1200,
+    "feature": true,
+    "company": "apple"
+  }
+]
